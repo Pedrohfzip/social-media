@@ -1,0 +1,13 @@
+.containerSet {
+  margin-top: 2rem;
+  width: 100%;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  border: 1px solid green;
+}
+.CardSet {
+  padding: 5rem 2rem;
+  justify-content: center;
+  border: 1px solid white;
+}

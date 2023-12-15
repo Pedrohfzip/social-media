@@ -1,0 +1,12 @@
+.containerInput {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+input {
+  padding: 1rem 0.5rem;
+  border-radius: 10px;
+
+  width: 50%;
+}

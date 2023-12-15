@@ -1,0 +1,23 @@
+{
+  "Sets": [
+    {
+      "Set1": {
+        "id": 1,
+        "Level": "CP160",
+        "Atributos": [
+          {
+            "2 Itens": "100 spell demage"
+          }
+        ]
+      },
+      "Set2": {
+        "id": 2,
+        "Level": "CP160"
+      },
+      "Set3": {
+        "id": 3,
+        "Level": "CP160"
+      }
+    }
+  ]
+}
